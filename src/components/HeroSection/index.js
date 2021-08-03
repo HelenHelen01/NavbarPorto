@@ -34,7 +34,7 @@ const HeroSection = () => {
             onMouseEnter={onHover}
             onMouseLeave={onHover}
           >
-            End darna uu {hover ? <ArrowForward /> : <ArrowRight />}
+            Sign up {hover ? <ArrowForward /> : <ArrowRight />}
           </Button>
         </HeroBtnWrapper>
       </HeroContent>

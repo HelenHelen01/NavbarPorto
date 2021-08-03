@@ -145,3 +145,9 @@ export const fly = keyframes`
     75% {transform: rotate(720deg)}
     100% {left:0px}
 `;
+
+export const SocialIconsLink = styled.a`
+  color: #fff;
+  font-size: 24px;
+  margin-left: 100px;
+`;

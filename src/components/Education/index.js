@@ -7,16 +7,26 @@ import {
   EduDate,
   Heading,
   Button,
+  EduLabel,
+  TopLine,
 } from "./EducationElement";
 
 const Education = () => {
   return (
     <EduContainer>
-      <EduTitle>Stratford University</EduTitle>
-      <Heading>Stratford heading University</Heading>
-      <EduDescription>Master of Information System 3.61</EduDescription>
+      <p> Education</p>
+      {/*<ul>Stratford University</ul>
+     <Heading>Stratford heading University</Heading>
+      <ul>Master of Information System 3.61</ul>
       <EduDate>July 2017</EduDate>
-      <Button>Relevant courses End Collapsed button ashiglana</Button>
+       <Button>Relevant courses End Collapsed button ashiglana</Button>
+      <ul>National University of Mongolia</ul>
+      <ul>Bachelor of Information Technology</ul> */}
+      <EduLabel>Stratford University--Master of Information System</EduLabel>
+
+      <EduLabel>
+        National University of Mongolia-- Bachelor of Information Technology
+      </EduLabel>
     </EduContainer>
   );
 };

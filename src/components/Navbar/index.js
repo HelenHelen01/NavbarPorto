@@ -12,6 +12,8 @@ import {
   NavLogo,
   NavLinks,
   NavBtnLink,
+  NavIconsLink,
+  NavButtonLink,
 } from "./NavbarElements";
 
 const Navbar = ({ toggle }) => {
@@ -32,7 +34,7 @@ const Navbar = ({ toggle }) => {
     <IconContext.Provider value={{ color: "#fff" }}>
       <Nav scrollNav={scrollNav}>
         <NavbarContainer>
-          <NavLogo to="/">dolla</NavLogo>
+          <NavLogo to="/">HT</NavLogo>
           <MobileIcon onClick={toggle}>
             <FaBars />
           </MobileIcon>
@@ -99,7 +101,13 @@ const Navbar = ({ toggle }) => {
             </NavItem>
           </NavMenu>
           <NavBtn>
-            <NavBtnLink to="/signin">burtguul</NavBtnLink>
+            <NavBtnLink
+              href="https://github.com/HelenHelen01?tab=repositories"
+              target="_blank"
+              aria-label="Github"
+            >
+              Github
+            </NavBtnLink>
           </NavBtn>
         </NavbarContainer>
       </Nav>

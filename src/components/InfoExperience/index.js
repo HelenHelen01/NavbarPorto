@@ -1,4 +1,5 @@
 import React from "react";
+import { FaDochub, FaGithub } from "react-icons/fa";
 import { Button } from "../ButtonElement";
 import image from "./../../images/hackaton01.jpg";
 //import image01 from "./../../images/Strat.jpg";
@@ -16,6 +17,7 @@ import {
   BtnWrap,
   Img,
   ImgWrap,
+  SocialIconsLink,
 } from "./InfoExperience";
 
 const InfoExperience = ({
@@ -61,6 +63,13 @@ const InfoExperience = ({
                 </Button>
               </BtnWrap>
             </TextWrapper>
+            <SocialIconsLink
+              href="https://www.dropbox.com/s/le4kvbsgrpbe4en/Helen_ENKHTUUL-LongVersion%29.docx?dl=0"
+              target="_blank"
+              aria-label="Linkedin"
+            >
+              <FaDochub />
+            </SocialIconsLink>
           </Column1>
           <Column2>
             <ImgWrap>

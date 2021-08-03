@@ -11,6 +11,7 @@ import {
 } from "../components/InfoExperience/Data";
 import Services from "../components/Services";
 import Education from "../components/Education";
+import Work from "../components/Work";
 
 const Home = () => {
   const [isOpen, setIsOpen] = useState(false);
@@ -27,6 +28,7 @@ const Home = () => {
       <Services />
       {/* <InfoExperience {...homeObjThree} /> */}
       <Education />
+      <Work />
       <Footer />
     </>
   );

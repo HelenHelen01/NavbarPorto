@@ -52,7 +52,7 @@ const Services = () => {
             <iframe
               width="479"
               height="200"
-              src="https://www.youtube.com/embed/DGKTsj_wuxk"
+              src="https://www.youtube.com/embed/gTQJqcT_B3k"
               title="YouTube video player"
               frameborder="0"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
@@ -64,10 +64,12 @@ const Services = () => {
           {/*<ServicesIcon src={Icon2} />*/}
           <ServicesH2>Yoga Application</ServicesH2>
           <ServicesP>
+            I'm a yoga enthusiast.Makes my daily routine easier. I used HTML,
+            CSS and JavaScript. It will give me peaceful n relaxing sound
             <iframe
               width="479"
               height="200"
-              src="https://www.youtube.com/embed/DGKTsj_wuxk"
+              src="https://www.youtube.com/embed/XQeI7gmVkJA"
               title="YouTube video player"
               frameborder="0"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
@@ -77,12 +79,12 @@ const Services = () => {
         </ServicesCard>
         <ServicesCard>
           {/* <ServicesIcon src={Icon3} />/>*/}
-          <ServicesH2>Asterisk</ServicesH2>
+          <ServicesH2>Asterisk-tech company</ServicesH2>
           <ServicesP>
             <iframe
               width="479"
-              height="200"
-              src="https://www.youtube.com/embed/DGKTsj_wuxk"
+              height="250"
+              src="https://www.youtube.com/embed/fxZKlq_2oik"
               title="YouTube video player"
               frameborder="0"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"

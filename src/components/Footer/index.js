@@ -16,7 +16,7 @@ import {
 } from "./FooterElements";
 
 import {
-  FaFacebook,
+  FaGithub,
   FaInstagram,
   FaYoutube,
   FaTwitter,
@@ -63,16 +63,21 @@ const Footer = () => {
         </FooterLinksContainer>
         <SocialMedia>
           <SocialMediaWrap>
-            <SocialLogo to="/">dolla </SocialLogo>
+            <SocialLogo to="/">HT</SocialLogo>
             <WebsiteRights>
               {" "}
-              dolla @ {new Date().getFullYear()}
+              HT @ {new Date().getFullYear()}
               All rights reserved.
             </WebsiteRights>
             <SocialIcons>
-              <SocialIconsLink href="/" target="_blank" aria-label="Facebook">
-                <FaFacebook />
+              <SocialIconsLink
+                href="https://github.com/HelenHelen01?tab=repositories"
+                target="_blank"
+                aria-label="Linkedin"
+              >
+                <FaGithub />
               </SocialIconsLink>
+
               <SocialIconsLink href="/" target="_blank" aria-label="Instagram">
                 <FaInstagram />
               </SocialIconsLink>
