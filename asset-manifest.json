@@ -1,26 +1,26 @@
 {
   "files": {
     "main.css": "/NavbarPorto/static/css/main.e301ba3d.chunk.css",
-    "main.js": "/NavbarPorto/static/js/main.b561795c.chunk.js",
-    "main.js.map": "/NavbarPorto/static/js/main.b561795c.chunk.js.map",
-    "runtime-main.js": "/NavbarPorto/static/js/runtime-main.b11add33.js",
-    "runtime-main.js.map": "/NavbarPorto/static/js/runtime-main.b11add33.js.map",
-    "static/js/2.4a1a4fec.chunk.js": "/NavbarPorto/static/js/2.4a1a4fec.chunk.js",
-    "static/js/2.4a1a4fec.chunk.js.map": "/NavbarPorto/static/js/2.4a1a4fec.chunk.js.map",
-    "static/js/3.fdbca0c4.chunk.js": "/NavbarPorto/static/js/3.fdbca0c4.chunk.js",
-    "static/js/3.fdbca0c4.chunk.js.map": "/NavbarPorto/static/js/3.fdbca0c4.chunk.js.map",
+    "main.js": "/NavbarPorto/static/js/main.40ac8534.chunk.js",
+    "main.js.map": "/NavbarPorto/static/js/main.40ac8534.chunk.js.map",
+    "runtime-main.js": "/NavbarPorto/static/js/runtime-main.5c8d5c4e.js",
+    "runtime-main.js.map": "/NavbarPorto/static/js/runtime-main.5c8d5c4e.js.map",
+    "static/js/2.d366826a.chunk.js": "/NavbarPorto/static/js/2.d366826a.chunk.js",
+    "static/js/2.d366826a.chunk.js.map": "/NavbarPorto/static/js/2.d366826a.chunk.js.map",
+    "static/js/3.cca743d9.chunk.js": "/NavbarPorto/static/js/3.cca743d9.chunk.js",
+    "static/js/3.cca743d9.chunk.js.map": "/NavbarPorto/static/js/3.cca743d9.chunk.js.map",
     "index.html": "/NavbarPorto/index.html",
     "static/css/main.e301ba3d.chunk.css.map": "/NavbarPorto/static/css/main.e301ba3d.chunk.css.map",
-    "static/js/2.4a1a4fec.chunk.js.LICENSE.txt": "/NavbarPorto/static/js/2.4a1a4fec.chunk.js.LICENSE.txt",
+    "static/js/2.d366826a.chunk.js.LICENSE.txt": "/NavbarPorto/static/js/2.d366826a.chunk.js.LICENSE.txt",
     "static/media/Strat.jpg": "/NavbarPorto/static/media/Strat.b854dc66.jpg",
     "static/media/hackaton01.jpg": "/NavbarPorto/static/media/hackaton01.4fe8a852.jpg",
     "static/media/svg-1.svg": "/NavbarPorto/static/media/svg-1.9e8c335a.svg",
     "static/media/video.ee0231b2.mp4": "/NavbarPorto/static/media/video.ee0231b2.mp4"
   },
   "entrypoints": [
-    "static/js/runtime-main.b11add33.js",
-    "static/js/2.4a1a4fec.chunk.js",
+    "static/js/runtime-main.5c8d5c4e.js",
+    "static/js/2.d366826a.chunk.js",
     "static/css/main.e301ba3d.chunk.css",
-    "static/js/main.b561795c.chunk.js"
+    "static/js/main.40ac8534.chunk.js"
   ]
 }
