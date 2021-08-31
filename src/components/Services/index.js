@@ -9,10 +9,8 @@ import {
   ServicesH1,
   ServiceWrapper,
   ServicesCard,
-  ServicesIcon,
   ServicesH2,
-  ServicesP,
-  Youtube,
+  ServicesP
 } from "./ServiceElements";
 
 const Services = () => {
@@ -34,9 +32,9 @@ const Services = () => {
               height="200"
               src="https://www.youtube.com/embed/DGKTsj_wuxk"
               title="YouTube video player"
-              frameborder="0"
+              frameBorder="0"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-              allowfullscreen
+              allowFullScreen
             ></iframe>
           </ServicesP>
         </ServicesCard>
@@ -54,9 +52,9 @@ const Services = () => {
               height="200"
               src="https://www.youtube.com/embed/gTQJqcT_B3k"
               title="YouTube video player"
-              frameborder="0"
+              frameBorder="0"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-              allowfullscreen
+              allowFullScreen
             ></iframe>
           </ServicesP>
         </ServicesCard>
@@ -71,9 +69,9 @@ const Services = () => {
               height="200"
               src="https://www.youtube.com/embed/XQeI7gmVkJA"
               title="YouTube video player"
-              frameborder="0"
+              frameBorder="0"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-              allowfullscreen
+              allowFullScreen
             ></iframe>
           </ServicesP>
         </ServicesCard>
@@ -86,9 +84,9 @@ const Services = () => {
               height="250"
               src="https://www.youtube.com/embed/fxZKlq_2oik"
               title="YouTube video player"
-              frameborder="0"
+              frameBorder="0"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-              allowfullscreen
+              allowFullScreen
             ></iframe>
           </ServicesP>
         </ServicesCard>
