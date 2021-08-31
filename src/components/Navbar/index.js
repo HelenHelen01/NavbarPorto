@@ -12,8 +12,6 @@ import {
   NavLogo,
   NavLinks,
   NavBtnLink,
-  NavIconsLink,
-  NavButtonLink,
 } from "./NavbarElements";
 
 const Navbar = ({ toggle }) => {
@@ -41,7 +39,7 @@ const Navbar = ({ toggle }) => {
           <NavMenu>
             <NavItem>
               <NavLinks
-                href="about"
+                to="about"
                 smooth={true}
                 duration={500}
                 spy={true}
@@ -53,7 +51,7 @@ const Navbar = ({ toggle }) => {
             </NavItem>
             <NavItem>
               <NavLinks
-                href="discover"
+                to="discover"
                 smooth={true}
                 duration={500}
                 spy={true}
@@ -65,7 +63,7 @@ const Navbar = ({ toggle }) => {
             </NavItem>
             <NavItem>
               <NavLinks
-                href="services"
+                to="services"
                 smooth={true}
                 duration={500}
                 spy={true}
@@ -77,7 +75,7 @@ const Navbar = ({ toggle }) => {
             </NavItem>
             <NavItem>
               <NavLinks
-                href="/signup"
+                to="/signup"
                 smooth={true}
                 duration={500}
                 spy={true}
@@ -89,7 +87,7 @@ const Navbar = ({ toggle }) => {
             </NavItem>
             <NavItem>
               <NavLinks
-                href="discover"
+                to="discover"
                 smooth={true}
                 duration={500}
                 spy={true}
@@ -102,7 +100,7 @@ const Navbar = ({ toggle }) => {
           </NavMenu>
           <NavBtn>
             <NavBtnLink
-              href="https://github.com/HelenHelen01?tab=repositories"
+              to="https://github.com/HelenHelen01?tab=repositories"
               target="_blank"
               aria-label="Github"
             >

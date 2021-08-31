@@ -11,11 +11,8 @@ import {
   Column2,
   TextWrapper,
   TopLine,
-  Heading,
-  Subtitle,
   Paragraph,
   BtnWrap,
-  Img,
   ImgWrap,
   SocialIconsLink,
 } from "./InfoExperience";

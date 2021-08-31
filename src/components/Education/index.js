@@ -2,13 +2,7 @@ import React from "react";
 
 import {
   EduContainer,
-  EduTitle,
-  EduDescription,
-  EduDate,
-  Heading,
-  Button,
   EduLabel,
-  TopLine,
 } from "./EducationElement";
 
 const Education = () => {

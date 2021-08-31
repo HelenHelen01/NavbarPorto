@@ -12,15 +12,15 @@ import {
 const Work = () => {
   return (
     <BgColor>
-      <Common>
-        <ul>Asterisk-Tech company</ul>
+        <ul>
+          <li>Asterisk-Tech company</li>
         <li>Software Developer</li>
 
-        <ul>Datessential– Trendspotting Marketing Company- Analyst Insights</ul>
+        <li>Datessential– Trendspotting Marketing Company- Analyst Insights</li>
         <li>Big Data Associate</li>
-        <ul>CTI-Chicago</ul>
+        <li>CTI-Chicago</li>
         <li>Application support/Customer Service</li>
-      </Common>
+        </ul>
     </BgColor>
   );
 };

@@ -1,5 +1,3 @@
-import { infinity } from "check-types";
-import { from } from "pumpify";
 import styled, { keyframes } from "styled-components";
 
 export const InfoContainer = styled.div`
